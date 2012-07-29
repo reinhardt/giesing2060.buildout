@@ -5,6 +5,7 @@ develop-eggs
 eggs
 include
 lib
+lib64
 parts
 secret.cfg
 src
