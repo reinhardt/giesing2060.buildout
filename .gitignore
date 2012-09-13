@@ -10,3 +10,4 @@ parts
 secret.cfg
 src
 var
+.*.swp
